@@ -1,4 +1,4 @@
-# ESP8266-Telnet-Client
+# ESP-Telnet-Client
 
 Based on the excellent work of @alejho. (https://github.com/alejho)
 
