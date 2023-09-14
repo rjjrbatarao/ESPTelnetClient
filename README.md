@@ -8,5 +8,5 @@ https://github.com/alejho/Arduino-Telnet-Client
 ```
 AsyncTcp and ESPasyncTcp
 
-note for esp32 use my ported AsyncTcp library
+note for esp32 use my ported AsyncTcp library https://github.com/rjjrbatarao/AsyncTCP
 ```
